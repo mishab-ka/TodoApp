@@ -13,7 +13,7 @@ This is a todoapp with firebase database [Todo App](https://todoappy.netlify.app
 ![alt text](https://firebasestorage.googleapis.com/v0/b/todo-app-f8b2a.appspot.com/o/Screenshot%20(4).png?alt=media&token=032b2e5b-9914-4171-8c0d-a73ffb36b334)
 ### Enter toDo
 ![alt text](https://firebasestorage.googleapis.com/v0/b/todo-app-f8b2a.appspot.com/o/Screenshot%20(5).png?alt=media&token=ca543134-8d0f-4b0f-a1d1-e47bcde91166)
-### Deleteing Tdo
+### Deleteing Todo
 ![alt text](https://firebasestorage.googleapis.com/v0/b/todo-app-f8b2a.appspot.com/o/Screenshot%20(6).png?alt=media&token=9e67fc80-d2ea-4f7f-803f-0ab4d6406b66)
 
 
