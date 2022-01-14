@@ -6,4 +6,7 @@ This is a todoapp with firebase database [Todo App](https://todoappy.netlify.app
 
 ### Click Here [Todo App](https://todoappy.netlify.app)
 
+## Preview Photos
+![alt text](http://url/to/img.png)
+
 # `we can read, create, delete todos`
